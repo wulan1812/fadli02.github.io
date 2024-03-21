@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+/* jumbotron */
+.jumbotron {
+    padding-top: 6rem ;
+    background-color: #41c9e2;
+}
+/* end jumbotron */
+
+/* gamabr */
+#gambar {
+    background-color: #41c9e2;
+
+}
+section {
+    padding-top: 5rem;
+}
+#footer {
+    margin-top: -60px;
+}
+ .ikon {
+    margin-top: -50px;
+    margin-left: 550px;
+    
+}
+.q {
+    background-color: #c499f3;
+    border: 4px;
+}
+/* animasi */
+.wow {
+    border-radius: 5px;
+    
+    background-color: #c499f3;
+}
+.rokib {
+    margin-top: -100px;
+}
+.okib {
+    font-size: 40px;
+}
+/* .oki{
+    margin-top: -100px;
+} */
+.bi-instagram{
+    color:black
+}
+.bi-tiktok{
+    color:black
+}
+.bi-facebook{
+    color:black
+}
+.bang{
+    margin:20px;
+}
+.p {
+    text-align: center;
+}
